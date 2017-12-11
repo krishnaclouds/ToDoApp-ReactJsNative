@@ -1,7 +1,7 @@
-Installation Instructions
--------------------------
+<h3>Installation Instructions</h3>
+---------------------------------
 
-1. Follow along instructions from ReactJsNative.Md to set-up a "Getting Started App"
+1. Setup Environment and <a href="https://github.com/react-community/create-react-native-app">Create basic app</a> 
 2. Then clone the files of this Repo in the app you created (in this case my-app)
    or you can simple copy the following files into your App: 
    1. App.js
